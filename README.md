@@ -4,7 +4,7 @@ Welcome to the aqua bot website, Have a look around!
 
 ### Commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How can i find the commands!
 
 ```markdown
 You can find the commands by typing !!help
